@@ -15,9 +15,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was to successfully download and run tensorflow lite, which is a tool that would help me use object detection. Most of my challenges in this project came from this milestone. This was probably due to a mix of my inexperience with raspberry pi as well as the difficulty of finding websites that could help me with the bugs I was facing. The first step to installing tensorflow lite was to download all necessary packages. While downloading the packages went pretty smoothly, I quickly found a problem when I was trying to run tensorflow lite object detection. 
 The error was: 
-incompatible function arguments. (arg0: tflite::python::task::core::BaseOptions, arg1: tflite::task::processor::DetectionOptions
+incompatible function arguments. (arg0: tflite::python::task::core::BaseOptions, arg1: tflite::task::processor::DetectionOptions.
 At first, I thought it was python version that wasn't compatible, so I tried changing the default version of pythong from 3.9 to 3.7. However, that didn't work as the error continued to show. After spending a long time trying to search for the solution, I finally stumbled upon this website:
-https://discuss.tensorflow.org/t/problem-in-tensorflowlite-code-with-pyhton-and-flask-on-google-coral-dev-board-for-object-detection/10302
+https://discuss.tensorflow.org/t/problem-in-tensorflowlite-code-with-pyhton-and-flask-on-google-coral-dev-board-for-object-detection/10302.
 
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=eXkOAw8vaN0&ab_channel=BlueStampEng "Second Milestone"){:target="_blank" rel="noopener"}
