@@ -26,6 +26,6 @@ I finally got tflite to work and it could detect everyday objects that it has in
 
 My first milestone was to successfully set up my raspberry pi and have it run on my monitor. To do this, I first needed to download a raspberry pi imager on my mac. I then put an SD card into a card reader and plugged it in my mac. After successfully writing the operating systems on my SD card, I then proceeded to take it out of my mac and plugged it in my raspberry pi. While I recieved a wireless mouse and keyboard, I decided to not waste time on connecting it to my raspberry pi and used a keyboard and mouse of my own instead. I then found a moniter that nobody in my house used and attached the cable into my moniter and the raspberry pi. Finally, I had to give the raspberry pi power and plugged it accordingly. After a couple seconds, the raspberry pi home screen appeared. To end my first milestone, I decided to also set up the raspberry pi camera and get it to work. I enabled the camera through my raspberry pi's configuratons and then installed the actual camera on my raspberry pi.
 
-[![First Milestone](https://img.youtube.com/vi/Wl_JNW2NZNI/0.jpg)](https://www.youtube.com/watch?v=Wl_JNW2NZNI)
+[![First Milestone](https://img.youtube.com/vi/Wl_JNW2NZNI/0.jpg)](https://www.youtube.com/watch?v=Wl_JNW2NZNI){First Milestone}
 
 
