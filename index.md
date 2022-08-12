@@ -5,7 +5,7 @@ I created a facial recognition device using raspberry pi. I created and trained 
 |:--:|:--:|:--:|:--:|
 | Michael Shi | Valley Christian High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](![image](https://drive.google.com/uc?export=view&id=<1ZtLN-qVL9KtRZ7BYtI6kAqlC03mCfvUo>))
+![Alt text](File_000.jpeg)
 
   
 # Final Milestone
