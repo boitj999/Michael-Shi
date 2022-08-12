@@ -18,9 +18,9 @@ The error was:
 incompatible function arguments. (arg0: tflite::python::task::core::BaseOptions, arg1: tflite::task::processor::DetectionOptions.
 At first, I thought it was python version that wasn't compatible, so I tried changing the default version of pythong from 3.9 to 3.7. However, that didn't work as the error continued to show. After spending a long time trying to search for the solution, I finally stumbled upon this website:
 https://discuss.tensorflow.org/t/problem-in-tensorflowlite-code-with-pyhton-and-flask-on-google-coral-dev-board-for-object-detection/10302.
+I finally got tflite to work and it could detect everyday objects that it has in its database.
 
-
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=eXkOAw8vaN0&ab_channel=BlueStampEng "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone]()](https://www.youtube.com/watch?v=eXkOAw8vaN0&ab_channel=BlueStampEng "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
