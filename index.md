@@ -10,7 +10,7 @@ I created a facial recognition device using raspberry pi. I created and trained 
 # Final Milestone
 My final milestone was to create and train a model that could sucessfully recognize me and my borther's face. I did this by taking around 150 images of me and my brother and boxing the image using a program I downloaded. I then took the images and zipped them in a folder where I used google colab to train model. I then implemented the model with the original detecy.py.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=rYdvyaDIgDc&ab_channel=BlueStampEng "Final Milestone"){}
+[![Final Milestone]()](https://www.youtube.com/watch?v=rYdvyaDIgDc&ab_channel=BlueStampEng "Final Milestone"){}
 
 # Second Milestone
 My second milestone was to successfully download and run tensorflow lite, which is a tool that would help me use object detection. Most of my challenges in this project came from this milestone. This was probably due to a mix of my inexperience with raspberry pi as well as the difficulty of finding websites that could help me with the bugs I was facing. The first step to installing tensorflow lite was to download all necessary packages. While downloading the packages went pretty smoothly, I quickly found a problem when I was trying to run tensorflow lite object detection. 
