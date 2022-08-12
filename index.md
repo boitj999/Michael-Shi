@@ -6,7 +6,7 @@ I created a facial recognition device using raspberry pi. I created and trained 
 | Michael Shi | Valley Christian High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](![image](https://drive.google.com/uc?export=view&id=<1ZtLN-qVL9KtRZ7BYtI6kAqlC03mCfvUo>)
-)
+
   
 # Final Milestone
 My final milestone was to create and train a model that could sucessfully recognize me and my borther's face. I did this by taking around 150 images of me and my brother and boxing the image using a program I downloaded. I then took the images and zipped them in a folder where I used google colab to train model. I then implemented the model with the original detecy.py.
